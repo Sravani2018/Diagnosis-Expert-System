@@ -1,0 +1,116 @@
+Output 1:
+
+Hi! I am a Diagnosis Expert System, I am here to help you make your health better.
+For that you'll have to answer a few questions about your conditions.Please reply with Yes/No
+Are you experiencing any of the following symptoms:
+
+Low body temperature: yes
+Cough: no
+Fainting: yes
+Headache: yes
+Fatigue: no
+Sunken eyes: no
+Fever: yes
+Sore throat: yes
+Nausea: no
+Blurred_vision: no
+Restlessness: yes
+Chest pain: no
+Back pain: yes
+For the following Symptoms:
+Headache
+Backpain
+Fainting
+Sore Throat
+Restlessness
+Low Body Temp
+Fever
+
+Did not find any disease that matches your exact symptoms
+
+
+The most probable disease that you have is Sinusitis
+
+A short description of the disease is given below :
+
+Acute sinusitis (acute rhinosinusitis) causes the cavities around your nasal passages (sinuses) to become inflamed and swollen. This interferes with drainage and causes mucus to build up.
+
+With acute sinusitis, it might be difficult to breathe through your nose. The area around your eyes and face might feel swollen, and you might have throbbing facial pain or a headache.
+
+Acute sinusitis is mostly caused by the common cold. Unless a bacterial infection develops, most cases resolve within a week to 10 days.
+
+In most cases, home remedies are all that's needed to treat acute sinusitis. However, persistent sinusitis can lead to serious infections and other complications. Sinusitis that lasts more than 12 weeks despite medical treatment is called chronic sinusitis.
+
+Acute sinusitis is most often caused by the common cold, which is a viral infection. In some cases, a bacterial infection develops.
+
+You may be at increased risk of getting sinusitis if you have:
+
+Hay fever or another allergic condition that affects your sinuses
+A nasal passage abnormality, such as a deviated nasal septum, nasal polyps or tumors
+A medical condition such as cystic fibrosis or an immune system disorder such as HIV/AIDS
+
+Diagnosis:
+
+Redness and swelling of the nasal passages
+
+Purulent (pus like) drainage from the nasal passages (the symptom most likely to clinically diagnose a sinus infection)
+
+Tenderness to percussion (tapping) over the cheeks or forehead region of the sinuses
+
+Swelling about the eyes and cheeks.
+
+The common medications and procedures suggested by other real doctors are:
+
+Prevention:
+
+Take these steps to help reduce your risk of getting acute sinusitis:
+
+Avoid upper respiratory infections. Minimize contact with people who have colds. Wash your hands frequently with soap and water, especially before your meals.
+
+Manage your allergies.
+
+Avoid cigarette smoke and polluted air. Tobacco smoke and other pollutants can irritate and inflame your lungs and nasal passages.
+
+Use a humidifier. If the air in your home is dry, such as it is if you have forced-air heat, adding moisture to the air may help prevent sinusitis. Be sure the humidifier stays clean and free of mold with regular, thorough cleaning.
+
+Treatment:
+
+Using a nasal decongestant spray, such as oxymetazoline, can help relieve sinus infection symptoms short-term.    
+
+Other over-the-counter medicines that contain antihistamines and decongestants can help with sinus infections, particularly if you also suffer from allergies.
+
+Medications:
+
+Sudafed
+Zyrtec
+Claritin
+
+
+
+Would you like to diagnose some other symptoms?
+no
+
+
+Output 2:
+
+Hi! I am a Diagnosis Expert System, I am here to help you make your health better.
+For that you'll have to answer a few questions about your conditions.Please reply with Yes/No
+Are you experiencing any of the following symptoms:
+
+Low body temperature: no 
+Fainting: no
+Fatigue: no
+Sore throat: no
+Headache: no
+Back pain: no
+Nausea: no
+Cough: no
+Chest pain: no
+Blurred_vision: no
+Restlessness: no
+Sunken eyes: no
+Fever: no
+
+You are absolutely fine!
+Would you like to diagnose some other symptoms?
+no
